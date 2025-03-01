@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj": {
+    "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
         "projectName": "CleanArchitectureDemo.Domain",
-        "projectPath": "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
-        "packagesPath": "C:\\Users\\ilmia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ilmia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,12 +61,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
