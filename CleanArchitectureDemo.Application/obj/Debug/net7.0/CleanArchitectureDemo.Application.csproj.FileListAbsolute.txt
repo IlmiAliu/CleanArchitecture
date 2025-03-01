@@ -15,3 +15,21 @@ C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArc
 C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArchitectureDemo.Application\obj\Debug\net7.0\refint\CleanArchitectureDemo.Application.dll
 C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArchitectureDemo.Application\obj\Debug\net7.0\CleanArchitectureDemo.Application.pdb
 C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArchitectureDemo.Application\obj\Debug\net7.0\ref\CleanArchitectureDemo.Application.dll
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\bin\Debug\net7.0\CleanArchitectureDemo.Application.deps.json
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\bin\Debug\net7.0\CleanArchitectureDemo.Application.dll
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\bin\Debug\net7.0\CleanArchitectureDemo.Application.pdb
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\bin\Debug\net7.0\CleanArchitectureDemo.Domain.dll
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\bin\Debug\net7.0\CleanArchitectureDemo.Shared.dll
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\bin\Debug\net7.0\CleanArchitectureDemo.Domain.pdb
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\bin\Debug\net7.0\CleanArchitectureDemo.Shared.pdb
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\CleanArchitectureDemo.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\CleanArchitectureDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\CleanArchitectureDemo.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\CleanArchitectureDemo.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\CleanArchitectureDemo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\CleanArchitectureDemo.Application.sourcelink.json
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\CleanArc.B82A0A37.Up2Date
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\CleanArchitectureDemo.Application.dll
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\refint\CleanArchitectureDemo.Application.dll
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\CleanArchitectureDemo.Application.pdb
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Application\obj\Debug\net7.0\ref\CleanArchitectureDemo.Application.dll
