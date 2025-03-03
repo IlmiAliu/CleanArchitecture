@@ -10,3 +10,17 @@ C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArc
 C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArchitectureDemo.Domain\obj\Debug\net7.0\refint\CleanArchitectureDemo.Domain.dll
 C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.pdb
 C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArchitectureDemo.Domain\obj\Debug\net7.0\ref\CleanArchitectureDemo.Domain.dll
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\bin\Debug\net7.0\CleanArchitectureDemo.Domain.deps.json
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\bin\Debug\net7.0\CleanArchitectureDemo.Domain.dll
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\bin\Debug\net7.0\CleanArchitectureDemo.Domain.pdb
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.sourcelink.json
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.dll
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\refint\CleanArchitectureDemo.Domain.dll
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.pdb
+C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\ref\CleanArchitectureDemo.Domain.dll
+C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.sourcelink.json
