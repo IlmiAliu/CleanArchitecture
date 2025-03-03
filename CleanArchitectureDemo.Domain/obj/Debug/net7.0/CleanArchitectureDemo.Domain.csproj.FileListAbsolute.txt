@@ -24,3 +24,16 @@ C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\
 C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.pdb
 C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\ref\CleanArchitectureDemo.Domain.dll
 C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.sourcelink.json
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\bin\Debug\net7.0\CleanArchitectureDemo.Domain.deps.json
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\bin\Debug\net7.0\CleanArchitectureDemo.Domain.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\bin\Debug\net7.0\CleanArchitectureDemo.Domain.pdb
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.AssemblyInfo.cs
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.sourcelink.json
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\refint\CleanArchitectureDemo.Domain.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\CleanArchitectureDemo.Domain.pdb
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Domain\obj\Debug\net7.0\ref\CleanArchitectureDemo.Domain.dll

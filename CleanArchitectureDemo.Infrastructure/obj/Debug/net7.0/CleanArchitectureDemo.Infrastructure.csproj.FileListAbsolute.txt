@@ -38,3 +38,23 @@ C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Infrastructure\ob
 C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArchitectureDemo.Infrastructure.pdb
 C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\ref\CleanArchitectureDemo.Infrastructure.dll
 C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArchitectureDemo.Infrastructure.sourcelink.json
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\bin\Debug\net7.0\CleanArchitectureDemo.Infrastructure.deps.json
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\bin\Debug\net7.0\CleanArchitectureDemo.Infrastructure.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\bin\Debug\net7.0\CleanArchitectureDemo.Infrastructure.pdb
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\bin\Debug\net7.0\CleanArchitectureDemo.Application.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\bin\Debug\net7.0\CleanArchitectureDemo.Domain.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\bin\Debug\net7.0\CleanArchitectureDemo.Shared.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\bin\Debug\net7.0\CleanArchitectureDemo.Application.pdb
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\bin\Debug\net7.0\CleanArchitectureDemo.Domain.pdb
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\bin\Debug\net7.0\CleanArchitectureDemo.Shared.pdb
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArchitectureDemo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArchitectureDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArchitectureDemo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArchitectureDemo.Infrastructure.AssemblyInfo.cs
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArchitectureDemo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArchitectureDemo.Infrastructure.sourcelink.json
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArc.C65C406C.Up2Date
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArchitectureDemo.Infrastructure.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\refint\CleanArchitectureDemo.Infrastructure.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\CleanArchitectureDemo.Infrastructure.pdb
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Infrastructure\obj\Debug\net7.0\ref\CleanArchitectureDemo.Infrastructure.dll

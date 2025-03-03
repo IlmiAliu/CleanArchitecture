@@ -22,3 +22,15 @@ C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\
 C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\CleanArchitectureDemo.Shared.pdb
 C:\Users\Admin\Desktop\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\ref\CleanArchitectureDemo.Shared.dll
 C:\Users\ilmia\Desktop\UBT SHKI\III\Zijadini\CleanArchitectureDemo-main\CleanArchitectureDemo.Shared\obj\Debug\net7.0\CleanArchitectureDemo.Shared.sourcelink.json
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\bin\Debug\net7.0\CleanArchitectureDemo.Shared.deps.json
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\bin\Debug\net7.0\CleanArchitectureDemo.Shared.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\bin\Debug\net7.0\CleanArchitectureDemo.Shared.pdb
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\CleanArchitectureDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\CleanArchitectureDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\CleanArchitectureDemo.Shared.AssemblyInfo.cs
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\CleanArchitectureDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\CleanArchitectureDemo.Shared.sourcelink.json
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\CleanArchitectureDemo.Shared.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\refint\CleanArchitectureDemo.Shared.dll
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\CleanArchitectureDemo.Shared.pdb
+C:\Users\W11\source\repos\CleanArchitecture\CleanArchitectureDemo.Shared\obj\Debug\net7.0\ref\CleanArchitectureDemo.Shared.dll
