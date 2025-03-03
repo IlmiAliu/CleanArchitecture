@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchitectureDemo.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdd262e8a93f6934ae34a4d7cf8465959bc6164e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba803ba5f887a60d91ac086e4d851066de6e53ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchitectureDemo.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchitectureDemo.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
