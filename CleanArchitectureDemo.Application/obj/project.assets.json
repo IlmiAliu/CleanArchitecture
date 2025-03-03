@@ -863,19 +863,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\ilmia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
+      "projectUniqueName": "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
       "projectName": "CleanArchitectureDemo.Application",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Application\\obj\\",
+      "projectPath": "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
+      "packagesPath": "C:\\Users\\ilmia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ilmia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -883,17 +883,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj"
+            "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj": {
+              "projectPath": "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj"
             },
-            "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\CleanArchitecture\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj"
+            "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj": {
+              "projectPath": "C:\\Users\\ilmia\\Desktop\\UBT SHKI\\III\\Zijadini\\CleanArchitectureDemo-main\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj"
             }
           }
         }
@@ -949,26 +950,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

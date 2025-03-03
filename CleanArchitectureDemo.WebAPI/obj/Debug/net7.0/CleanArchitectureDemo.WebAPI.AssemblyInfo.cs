@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchitectureDemo.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba803ba5f887a60d91ac086e4d851066de6e53ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7869aa73bff24b843977aa4ffc28cb824389f6fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchitectureDemo.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchitectureDemo.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
